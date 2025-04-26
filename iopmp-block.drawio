@@ -1,9 +1,146 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="RL3nofl_QCPZk8gX81ba">
-    <mxGraphModel>
+    <mxGraphModel dx="1008" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#E6E6E6" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ANXFOkR4bfA_fHR660WL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="ANXFOkR4bfA_fHR660WL-1" target="ANXFOkR4bfA_fHR660WL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="ANXFOkR4bfA_fHR660WL-1" target="ANXFOkR4bfA_fHR660WL-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="420" />
+              <mxPoint x="750" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;" edge="1" parent="1" source="ANXFOkR4bfA_fHR660WL-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="330.2222222222222" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-1" value="访存请求接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="ANXFOkR4bfA_fHR660WL-2" target="ANXFOkR4bfA_fHR660WL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;" edge="1" parent="1" source="ANXFOkR4bfA_fHR660WL-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480.2222222222222" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-2" value="配置修改请求接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ANXFOkR4bfA_fHR660WL-3" target="ANXFOkR4bfA_fHR660WL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-7" value="MD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="ANXFOkR4bfA_fHR660WL-6">
+          <mxGeometry x="-0.049" y="-1" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-3" value="SRCMD表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ANXFOkR4bfA_fHR660WL-4" target="ANXFOkR4bfA_fHR660WL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-9" value="Entry" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="ANXFOkR4bfA_fHR660WL-8">
+          <mxGeometry x="-0.1078" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-4" value="MDCFG表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="390" y="290" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.002;exitY=0.617;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;exitPerimeter=0;" edge="1" parent="1" source="ANXFOkR4bfA_fHR660WL-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="352" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ANXFOkR4bfA_fHR660WL-5" target="ANXFOkR4bfA_fHR660WL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ANXFOkR4bfA_fHR660WL-5" target="ANXFOkR4bfA_fHR660WL-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-29" value="ERR" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="ANXFOkR4bfA_fHR660WL-26">
+          <mxGeometry x="0.1" y="1" relative="1" as="geometry">
+            <mxPoint x="-6" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-5" value="IOPMP表项" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="510" y="290" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.02;entryY=0.302;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;" edge="1" parent="1" source="ANXFOkR4bfA_fHR660WL-3" target="ANXFOkR4bfA_fHR660WL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-12" value="RRID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="ANXFOkR4bfA_fHR660WL-11">
+          <mxGeometry x="0.0112" relative="1" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.81;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ANXFOkR4bfA_fHR660WL-1" target="ANXFOkR4bfA_fHR660WL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-14" value="RW" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="ANXFOkR4bfA_fHR660WL-13">
+          <mxGeometry x="-0.0422" y="1" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.844;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ANXFOkR4bfA_fHR660WL-1" target="ANXFOkR4bfA_fHR660WL-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="374" />
+              <mxPoint x="365" y="374" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-17" value="ADDR/SIZE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="ANXFOkR4bfA_fHR660WL-16">
+          <mxGeometry x="-0.6058" relative="1" as="geometry">
+            <mxPoint x="-6" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ANXFOkR4bfA_fHR660WL-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="330.2222222222222" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-18" value="访存响应接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="740" y="260" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-25" value="ERROR&lt;div&gt;寄存器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="630" y="290" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.393;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ANXFOkR4bfA_fHR660WL-25" target="ANXFOkR4bfA_fHR660WL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-30" value="ERR" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="ANXFOkR4bfA_fHR660WL-28">
+          <mxGeometry x="-0.0725" y="1" relative="1" as="geometry">
+            <mxPoint x="-2" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-32" value="Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="625" y="340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-33" value="IOPMP模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="390" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-36" value="DMA请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-38" value="内存响应" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="757" y="300" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ANXFOkR4bfA_fHR660WL-40" value="CPU请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="150" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
