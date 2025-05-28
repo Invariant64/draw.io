@@ -40,7 +40,7 @@
         <mxCell id="BBhyITsidMslxvMKUjfe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BBhyITsidMslxvMKUjfe-10" target="BBhyITsidMslxvMKUjfe-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BBhyITsidMslxvMKUjfe-10" value="&lt;div style=&quot;font-size: 14px; color: rgb(31, 35, 41);&quot;&gt;&lt;p&gt;查询是否允许访存&lt;/p&gt;&lt;/div&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="BBhyITsidMslxvMKUjfe-10" value="&lt;div style=&quot;color: rgb(31, 35, 41);&quot;&gt;&lt;p style=&quot;&quot;&gt;&lt;font&gt;查询是否允许访存&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="440" y="500" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BBhyITsidMslxvMKUjfe-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BBhyITsidMslxvMKUjfe-13" target="BBhyITsidMslxvMKUjfe-15" edge="1">
