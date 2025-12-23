@@ -319,7 +319,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8ojWdo01uQSo3kwxp7KU" name="第 3 页">
-    <mxGraphModel dx="-916" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-944" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -452,6 +452,11 @@
         </mxCell>
         <mxCell id="pcqn3AGiwARNgo6Wqnrl-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="LAn2M88ahljTWvyhfDae-34" target="LAn2M88ahljTWvyhfDae-15">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pcqn3AGiwARNgo6Wqnrl-2" value="ciphertext" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pcqn3AGiwARNgo6Wqnrl-1">
+          <mxGeometry x="-0.5651" relative="1" as="geometry">
+            <mxPoint x="9" y="-10" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LAn2M88ahljTWvyhfDae-34" value="③ encryption" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1830" y="1170" width="100" height="30" as="geometry" />
